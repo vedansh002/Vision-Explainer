@@ -1,0 +1,18 @@
+# Sentinel-Vision: AI-powered Video Audit Agent
+# Production-grade dependencies
+
+# Core dependencies
+langraph>=0.0.1
+langgraph-checkpoint>=2024.1.0
+
+# LLM and Vision APIs
+google-generativeai>=0.3.0
+
+# Computer Vision
+opencv-python>=4.8.0
+
+# PDF Generation
+reportlab>=4.0.0
+
+# Development and type checking
+python-dotenv>=1.0.0
